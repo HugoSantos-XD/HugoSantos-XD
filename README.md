@@ -1,10 +1,10 @@
-### Sejam Bem Vindos 👋
+# Sejam Bem Vindos 👋
 Formando em Tecnológo de Mecatrônica Industrial - IFCE , apaixonado e engajado por coisas novas, principalmente no mundo da tecnologia, gosto de aprender novas coisas e implementar elas no meu dia a dia. 
 ## Detalhes 
 - 🔭 Atualmente trabalhando na Grendene_SA
 - 🌱 Atualmente estou aprendendo Ciência de Dados e Visão Computacional
 
-## Redes Sociais 
+## Conecte-se comigo
 <a href="https://www.linkedin.com/in/hugo-santos-1ab5291b2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
