@@ -10,8 +10,9 @@ Formando em Tecnológo de Mecatrônica Industrial - IFCE , apaixonado e engajado
 <a href="https://www.instagram.com/hugosantos193/?next=%2F">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-<a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:hugos193040@gmail.com">
+<img scr="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 
 ## Habilidade
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
