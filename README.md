@@ -1,5 +1,5 @@
 ### Sejam Bem Vindos 👋
-Meu chama Hugo, estou em formação pelo IFCE em Tecnológo de Mecatrônica Industrial ,sou apaixonado e engajados por coisas novas, principalmente no mundo da tecnologia, gosto de aprender novas coisas e implementar elas no meu dia a dia.
+Formando em Tecnológo de Mecatrônica Industrial - IFCE ,sou apaixonado e engajados por coisas novas, principalmente no mundo da tecnologia, gosto de aprender novas coisas e implementar elas no meu dia a dia. 
 ## Detalhes 
 - 🔭 Atualmente trabalhando na Grendene_SA
 - 🌱 Atualmente estou aprendendo Ciência de Dados e Visão Computacional
