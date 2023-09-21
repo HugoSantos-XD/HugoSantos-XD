@@ -14,7 +14,7 @@ Formando em Tecnológo de Mecatrônica Industrial - IFCE , apaixonado e engajado
 <img scr="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
 
 
-## Habilidade
+## Habilidades
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
